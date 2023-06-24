@@ -11,3 +11,4 @@ lightgbm
 opencv-python
 seaborn
 jupyter
+gunicorn==20.1.0
