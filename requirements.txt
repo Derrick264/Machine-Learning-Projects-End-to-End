@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tensorflow
+torch
+keras
+xgboost
+lightgbm
+opencv-python
+seaborn
+jupyter
+gunicorn==20.1.0
