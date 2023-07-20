@@ -1,4 +1,4 @@
-# Project:Stores Sales Prediction #
+# Project 1 : Stores Sales Prediction #
 
 The project follows the basic workflow of a Data Science Or a Machine learning Project.
 
