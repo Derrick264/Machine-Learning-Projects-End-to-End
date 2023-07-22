@@ -1,0 +1,7 @@
+Arch: https://github.com/Derrick264/derr_MLProjectsEndtoEnd/blob/main/Architecture_Derrick.pdf
+HLD : https://github.com/Derrick264/derr_MLProjectsEndtoEnd/blob/main/HLD_Derrick.pdf
+LLD :  https://github.com/Derrick264/derr_MLProjectsEndtoEnd/blob/main/LLD_Derrick.pdf
+DPR : https://github.com/Derrick264/derr_MLProjectsEndtoEnd/blob/main/ProjectReport_Derrick.pdf
+Wire : https://github.com/Derrick264/derr_MLProjectsEndtoEnd/blob/main/Wireframe_Derrick.pdf
+Videos : https://github.com/Derrick264/derr_MLProjectsEndtoEnd/blob/main/ProjectsScreenRec/ProjRecording.mp4
+
