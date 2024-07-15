@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('image.jpeg'); /* Adjust the path if necessary */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /* Ensure the background does not repeat */
+    padding: 10px;
+    margin: 0;
+}
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(182, 18, 18, 0.1); /* Soft shadow effect */
+    width: 60%;
+    margin: 50px auto; /* Center the container with a top margin */
+}
+h1 {
+    color: #286dc8; /* Blue heading color */
+    text-align: center;
+    margin-bottom: 30px;
+}
+.section {
+    margin-bottom: 20px;
+}
+label {
+    color: #0f0c0c; /* Dark gray label text color */
+    font-weight: bold;
+}
+input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #cccccc; /* Light gray border */
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+input[type="submit"] {
+    background-color: #007bff; /* Blue submit button */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+input[type="submit"]:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+.intro {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
