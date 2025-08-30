@@ -1,4 +1,4 @@
-# Movie Success Prediction Project
+# Movie Success Prediction 
 
 ## Project Overview
 This project aims to predict the commercial success category (Hit, Average, or Flop) of movies based on their metadata, social media popularity indicators, and other derived features using machine learning. By leveraging publicly available movie datasets and social media engagement data, the objective is to identify key factors influencing box office outcomes and develop predictive models to classify movies according to their success level.
@@ -89,3 +89,4 @@ A comprehensive data preparation pipeline was developed encompassing the followi
    - `04_modeling_and_evaluation.ipynb`
 3. Load preprocessed data from `data/final_cleaned_featured_movie_data.csv` to run modeling.
 4. Use the Streamlit app located at `scripts/app.py` for interactive predictions:
+
